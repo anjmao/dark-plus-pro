@@ -1,0 +1,31 @@
+{
+    "name": "dark-plus-pro",
+    "displayName": "Dark+ Pro",
+    "description": "Visual Studio Dark + Pro theme.",
+    "version": "1.0.0",
+    "publisher": "anjmao",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/anjmao/dark-plus-pro.git"
+    },
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    }
+}
