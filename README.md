@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/misolori/min-theme/master/icon.png" width="140" />
+<img src="https://raw.githubusercontent.com/anjmao/dark-plus-pro/master/icon.png" width="140" />
 
 # Visual Studio Dark+ Pro
 
