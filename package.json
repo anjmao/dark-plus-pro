@@ -2,8 +2,11 @@
     "name": "dark-plus-pro",
     "displayName": "Dark+ Pro",
     "description": "Visual Studio Dark + Pro theme.",
-    "version": "1.0.1",
-    "publisher": "anjmao",
+    "version": "1.0.2",
+    "publisher": "amaciusovic",
+    "scripts": {
+        "publish": "vsce publish"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/anjmao/dark-plus-pro.git"
