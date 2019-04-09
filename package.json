@@ -5,7 +5,7 @@
     "version": "1.0.2",
     "publisher": "amaciusovic",
     "scripts": {
-        "publish": "vsce publish"
+        "publish": "vsce publish -p <token>"
     },
     "repository": {
         "type": "git",
