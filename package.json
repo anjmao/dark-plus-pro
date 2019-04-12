@@ -2,7 +2,7 @@
     "name": "dark-plus-pro",
     "displayName": "Dark+ Pro",
     "description": "Visual Studio Dark + Pro theme.",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "amaciusovic",
     "scripts": {
         "publish": "vsce publish -p <token>"
